@@ -14,11 +14,11 @@
   "use_heroku": "y",
   "port_number": "3000",
   "__prompts__": {
-    "full_name": "Enter your full name here",
-    "email": "Work email required",
+    "full_name": "Full Name - Enter your full name here",
+    "email": "Email - Work email required",
     "github_username": "Enter your github username",
-    "python_version": "Use supported versions only",
-    "node_version": "Use support versions only",
-    "port_number": "Enter the port number for your application (3000 - 19999 that is not used):"
+    "python_version": "Python Version - Use supported versions only",
+    "node_version": "Node Version - Use support versions only",
+    "port_number": "Port Number - Enter the port number for your application (3000 - 19999 that is not used):"
   }
 }
